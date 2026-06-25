@@ -160,7 +160,7 @@ sentiment-analysis/
 **Nagashivathmika Durga Pu**
 
 - GitHub: [@shivathmika-9927](https://github.com/shivathmika-9927)
-- LinkedIn: [Nagashivathmika Durga Pu](https://www.linkedin.com/in/nagashivathmika9)
+- LinkedIn: [Nagashivathmika Durgapu](https://www.linkedin.com/in/nagashivathmika9)
 - Email: nagashivathmikadurgapu9@gmail.com
 
 ---
